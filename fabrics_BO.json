@@ -1,0 +1,11 @@
+{
+    "name": "Podgumowane",
+    "fabrics": [
+        { "name": "Grafit", "color": "#36454f", "pricePerSqMeter": 180, "imagePath": "assets/fabrics/gummed/grafit.jpg" },
+        { "name": "Ciemny Beż", "color": "#9f8c76", "pricePerSqMeter": 180, "imagePath": "assets/fabrics/gummed/ciemny-bez.jpg" },
+        { "name": "Oliwka", "color": "#808000", "pricePerSqMeter": 180, "imagePath": "assets/fabrics/gummed/oliwka.jpg" },
+        { "name": "Bordo", "color": "#800000", "pricePerSqMeter": 180, "imagePath": "assets/fabrics/gummed/bordo.jpg" },
+        { "name": "Granat", "color": "#000080", "pricePerSqMeter": 180, "imagePath": "assets/fabrics/gummed/granat.jpg" },
+        { "name": "Ciemna Zieleń", "color": "#006400", "pricePerSqMeter": 180, "imagePath": "assets/fabrics/gummed/ciemna-zielen.jpg" }
+    ]
+}

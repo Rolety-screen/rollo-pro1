@@ -1,0 +1,9 @@
+{
+    "name": "Honeycomb / Termoizolacyjne",
+    "fabrics": [
+        { "name": "Srebrna Perła", "color": "#c0c0c0", "pricePerSqMeter": 240, "imagePath": "assets/fabrics/honeycomb/srebrna.jpg" },
+        { "name": "Złoty Piasek", "color": "#eac674", "pricePerSqMeter": 240, "imagePath": "assets/fabrics/honeycomb/zloty.jpg" },
+        { "name": "Biała Arktyka", "color": "#f0f8ff", "pricePerSqMeter": 240, "imagePath": "assets/fabrics/honeycomb/biala.jpg" },
+        { "name": "Chłodny Beż", "color": "#d8d0c8", "pricePerSqMeter": 240, "imagePath": "assets/fabrics/honeycomb/bez.jpg" }
+    ]
+}
