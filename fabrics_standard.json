@@ -1,7 +1,7 @@
 {
     "name": "Standard / Transparentne",
     "fabrics": [
-        { "name": "Biały Śnieg", "color": "#ffffff", "pricePerSqMeter": 150, "imagePath": "fabrics/standard/bialy.jpg" },
+        { "name": "Biały Śnieg", "color": "#ffffff", "pricePerSqMeter": 150, "imagePath": "fabrics/standard/biały.jpg" },
         { "name": "Kremowy Aksamit", "color": "#f5f5dc", "pricePerSqMeter": 150, "imagePath": "assets/fabrics/standard/kremowy.jpg" },
         { "name": "Jasny Beż", "color": "#d3c5aa", "pricePerSqMeter": 150, "imagePath": "assets/fabrics/standard/jasny-bez.jpg" },
         { "name": "Szary Kamień", "color": "#a9a9a9", "pricePerSqMeter": 150, "imagePath": "assets/fabrics/standard/szary.jpg" },
@@ -10,3 +10,4 @@
     ]
 
 }
+
