@@ -1,7 +1,7 @@
 {
     "name": "Standard / Transparentne",
     "fabrics": [
-        { "name": "Biały Śnieg", "color": "#ffffff", "pricePerSqMeter": 150, "imagePath": "fabrics/standart/bialy.jpg" },
+        { "name": "Aragonit-8900", "color": "#ffffff", "pricePerSqMeter": 150, "imagePath": "fabrics/standart/Aragonit-8900.jpg" },
         { "name": "Biały Śnieg", "color": "#ffffff", "pricePerSqMeter": 150, "imagePath": "fabrics/standart/bialy.jpg" },
         { "name": "Kremowy Aksamit", "color": "#f5f5dc", "pricePerSqMeter": 150, "imagePath": "assets/fabrics/standard/kremowy.jpg" },
         { "name": "Jasny Beż", "color": "#d3c5aa", "pricePerSqMeter": 150, "imagePath": "assets/fabrics/standard/jasny-bez.jpg" },
@@ -11,6 +11,7 @@
     ]
 
 }
+
 
 
 
